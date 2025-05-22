@@ -1,3 +1,14 @@
+# Tableau-Data-Analysis-Collection
+This project is a curated collection of interactive Tableau dashboards created to visualize, analyze, and derive insights from real-world datasets. The dashboards cover three diverse domains:
+
+- Amazon Shipping Analysis – logistics and delivery performance
+- Tesla Stock Price Analysis – financial and market trends
+- UT Mart Sales Analysis – retail sales and inventory patterns
+
+Each dashboard leverages Tableau’s rich data visualization capabilities to present KPIs, time-series trends, and actionable metrics through interactive filters, charts, and summaries. This collection is ideal for analysts, students, and decision-makers who want to explore the impact of data storytelling in practical business scenarios.
+
+---
+
 # 📊 Tableau Dashboard Collection
 
 ![Repo Size](https://img.shields.io/github/repo-size/anjub004/tableau-dashboard-collection)
