@@ -4,6 +4,13 @@
 ![License](https://img.shields.io/github/license/anjub004/tableau-dashboard-collection)
 ![Last Commit](https://img.shields.io/github/last-commit/anjub004/tableau-dashboard-collection)
 
+---
+
+# 📝 Project Overview
+This repository features a curated collection of Tableau dashboards developed to transform raw data into actionable insights. Each dashboard leverages real-world datasets and Tableau’s powerful visualization capabilities to explore business trends, monitor KPIs, and support data-driven decision-making. Whether analyzing shipping logistics, financial markets, or retail performance, these dashboards are designed to offer clarity, interactivity, and strategic value to stakeholders.
+
+---
+
 This repository showcases a collection of professional Tableau dashboards designed to transform raw data into actionable insights. Projects include:
 
 - 🚚 **Amazon Shipping Analysis**
